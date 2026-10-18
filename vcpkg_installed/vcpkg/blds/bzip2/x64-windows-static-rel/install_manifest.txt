@@ -1,0 +1,4 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows-static/lib/bz2.lib
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows-static/tools/bzip2/bzip2.exe
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows-static/tools/bzip2/bzip2recover.exe
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows-static/include/bzlib.h

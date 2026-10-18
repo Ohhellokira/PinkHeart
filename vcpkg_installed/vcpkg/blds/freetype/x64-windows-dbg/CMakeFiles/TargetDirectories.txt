@@ -1,0 +1,8 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/freetype.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/package.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/package_source.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/edit_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/rebuild_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/list_install_components.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/install.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/freetype/x64-windows-dbg/CMakeFiles/install/local.dir

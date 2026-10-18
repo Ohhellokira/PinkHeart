@@ -1,0 +1,13 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/CMakeFiles/edit_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/CMakeFiles/rebuild_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/CMakeFiles/list_install_components.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/CMakeFiles/install.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/CMakeFiles/install/local.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/lib/CMakeFiles/vorbis.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/lib/CMakeFiles/vorbisenc.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/lib/CMakeFiles/vorbisfile.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/lib/CMakeFiles/edit_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/lib/CMakeFiles/rebuild_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/lib/CMakeFiles/list_install_components.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/lib/CMakeFiles/install.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libvorbis/x64-windows-static-rel/lib/CMakeFiles/install/local.dir

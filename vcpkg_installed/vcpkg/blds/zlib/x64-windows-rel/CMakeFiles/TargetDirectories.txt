@@ -1,0 +1,15 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/zlib.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/package.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/package_source.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/edit_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/list_install_components.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/install.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/install/local.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/contrib/CMakeFiles/package.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/contrib/CMakeFiles/package_source.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/contrib/CMakeFiles/edit_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/contrib/CMakeFiles/rebuild_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/contrib/CMakeFiles/list_install_components.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/contrib/CMakeFiles/install.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/contrib/CMakeFiles/install/local.dir

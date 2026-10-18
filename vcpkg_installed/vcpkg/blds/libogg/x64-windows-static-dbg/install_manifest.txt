@@ -1,0 +1,9 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows-static/debug/lib/ogg.lib
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows-static/debug/include/ogg/config_types.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows-static/debug/include/ogg/ogg.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows-static/debug/include/ogg/os_types.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows-static/debug/lib/cmake/Ogg/OggTargets.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows-static/debug/lib/cmake/Ogg/OggTargets-debug.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows-static/debug/lib/cmake/Ogg/OggConfig.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows-static/debug/lib/cmake/Ogg/OggConfigVersion.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libogg_x64-windows-static/debug/lib/pkgconfig/ogg.pc

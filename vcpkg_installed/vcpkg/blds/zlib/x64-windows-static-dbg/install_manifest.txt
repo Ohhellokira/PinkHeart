@@ -1,0 +1,16 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/lib/zsd.lib
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/lib/cmake/zlib/ZLIB-static.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/lib/cmake/zlib/ZLIB-static-debug.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/lib/cmake/zlib/ZLIBConfig.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/lib/cmake/zlib/ZLIBConfigVersion.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/include/zconf.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/include/zlib.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/share/man/man3/zlib.3
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/share/doc/zlib/zlib/LICENSE
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/share/doc/zlib/zlib/algorithm.txt
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/share/doc/zlib/zlib/crc-doc.1.0.pdf
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/share/doc/zlib/zlib/rfc1950.txt
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/share/doc/zlib/zlib/rfc1951.txt
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/share/doc/zlib/zlib/rfc1952.txt
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/share/doc/zlib/zlib/txtvsbin.txt
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/zlib_x64-windows-static/debug/lib/pkgconfig/zlib.pc

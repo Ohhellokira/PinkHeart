@@ -1,0 +1,15 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/CMakeFiles/zlibstatic.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/CMakeFiles/package.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/CMakeFiles/package_source.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/CMakeFiles/edit_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/CMakeFiles/rebuild_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/CMakeFiles/list_install_components.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/CMakeFiles/install.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/CMakeFiles/install/local.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/contrib/CMakeFiles/package.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/contrib/CMakeFiles/package_source.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/contrib/CMakeFiles/edit_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/contrib/CMakeFiles/rebuild_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/contrib/CMakeFiles/list_install_components.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/contrib/CMakeFiles/install.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/zlib/x64-windows-static-dbg/contrib/CMakeFiles/install/local.dir

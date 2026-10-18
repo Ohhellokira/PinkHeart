@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/sfml/x64-windows-static-rel/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/sfml/x64-windows-static-rel/src/SFML/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/sfml/x64-windows-static-rel/src/SFML/System/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/sfml/x64-windows-static-rel/src/SFML/Main/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/sfml/x64-windows-static-rel/src/SFML/Window/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/sfml/x64-windows-static-rel/src/SFML/Network/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/sfml/x64-windows-static-rel/src/SFML/Graphics/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/sfml/x64-windows-static-rel/src/SFML/Audio/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

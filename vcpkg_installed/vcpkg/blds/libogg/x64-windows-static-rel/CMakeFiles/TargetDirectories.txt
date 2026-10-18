@@ -1,0 +1,8 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libogg/x64-windows-static-rel/CMakeFiles/ogg.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libogg/x64-windows-static-rel/CMakeFiles/package.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libogg/x64-windows-static-rel/CMakeFiles/package_source.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libogg/x64-windows-static-rel/CMakeFiles/edit_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libogg/x64-windows-static-rel/CMakeFiles/rebuild_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libogg/x64-windows-static-rel/CMakeFiles/list_install_components.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libogg/x64-windows-static-rel/CMakeFiles/install.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/libogg/x64-windows-static-rel/CMakeFiles/install/local.dir

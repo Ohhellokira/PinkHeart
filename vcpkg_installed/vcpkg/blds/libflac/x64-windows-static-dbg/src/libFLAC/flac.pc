@@ -1,0 +1,12 @@
+prefix=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows-static/debug
+exec_prefix=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows-static/debug
+libdir=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows-static/debug/lib
+includedir=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows-static/debug/include
+
+Name: FLAC
+Description: Free Lossless Audio Codec Library
+Version: 1.5.0
+Requires.private: ogg
+Libs: -L${libdir} -lFLAC
+Libs.private: -lm 
+Cflags: -I${includedir}

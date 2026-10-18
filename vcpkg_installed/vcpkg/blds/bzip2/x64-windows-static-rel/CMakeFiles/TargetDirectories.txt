@@ -1,0 +1,8 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-static-rel/CMakeFiles/bz2.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-static-rel/CMakeFiles/bzip2.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-static-rel/CMakeFiles/bzip2recover.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-static-rel/CMakeFiles/edit_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-static-rel/CMakeFiles/rebuild_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-static-rel/CMakeFiles/list_install_components.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-static-rel/CMakeFiles/install.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/bzip2/x64-windows-static-rel/CMakeFiles/install/local.dir

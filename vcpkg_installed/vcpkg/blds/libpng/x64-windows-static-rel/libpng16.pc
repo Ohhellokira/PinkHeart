@@ -1,0 +1,12 @@
+prefix=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static
+exec_prefix=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static
+libdir=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/lib
+includedir=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/include/libpng16
+
+Name: libpng
+Description: Loads and saves PNG files
+Version: 1.6.59
+Requires.private: zlib
+Libs: -L${libdir} -lpng16
+Libs.private: 
+Cflags: -I${includedir}

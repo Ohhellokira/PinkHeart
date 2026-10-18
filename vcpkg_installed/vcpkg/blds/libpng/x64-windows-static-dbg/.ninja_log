@@ -1,0 +1,20 @@
+# ninja log v7
+85	541	8139765131666918	CMakeFiles/png_static.dir/pngwtran.c.obj	9d97127260b556fe
+32	550	8139765131132131	CMakeFiles/png_static.dir/pngpread.c.obj	1e4b51b935eeecb9
+14	555	8139765130940505	CMakeFiles/png_static.dir/pngerror.c.obj	31c9da686c41641e
+7	559	8139765130877988	CMakeFiles/png_static.dir/png.c.obj	ceeb5ade0507cea5
+80	562	8139765131613481	CMakeFiles/png_static.dir/pngwrite.c.obj	2b0d652a07c4d419
+43	566	8139765131247507	CMakeFiles/png_static.dir/pngrio.c.obj	17024e651c8592a0
+73	569	8139765131550462	CMakeFiles/png_static.dir/pngwio.c.obj	db13cf7d638e89dd
+67	572	8139765131478345	CMakeFiles/png_static.dir/pngtrans.c.obj	43c1a291f1c4ee45
+25	575	8139765131061724	CMakeFiles/png_static.dir/pngmem.c.obj	e4460a37b80d2e2a
+20	578	8139765131007455	CMakeFiles/png_static.dir/pngget.c.obj	3edd64f475503d3f
+61	581	8139765131423292	CMakeFiles/png_static.dir/pngset.c.obj	4ac132c34ff60ad5
+50	585	8139765131314131	CMakeFiles/png_static.dir/pngrtran.c.obj	3a3084e8f4055e7b
+55	587	8139765131369055	CMakeFiles/png_static.dir/pngrutil.c.obj	91ba17070165fb29
+92	590	8139765131732261	CMakeFiles/png_static.dir/pngwutil.c.obj	d3a69d13fd7246a1
+98	593	8139765131788528	CMakeFiles/png_static.dir/intel/intel_init.c.obj	7322e04ae5853a7d
+37	596	8139765131187458	CMakeFiles/png_static.dir/pngread.c.obj	d8826176f9b0875b
+104	660	8139765131848894	CMakeFiles/png_static.dir/intel/filter_sse2_intrinsics.c.obj	9befa7d3a51f89a9
+660	716	8139765137416873	libpng16d.lib	43c19a7133039894
+717	855	8139765137978384	CMakeFiles/install.util	5c02923bbbe9c70f

@@ -1,0 +1,2 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-static-rel/CMakeFiles/edit_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/detect_compiler/x64-windows-static-rel/CMakeFiles/rebuild_cache.dir

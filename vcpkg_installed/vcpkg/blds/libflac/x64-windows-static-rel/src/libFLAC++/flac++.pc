@@ -1,0 +1,11 @@
+prefix=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows-static
+exec_prefix=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows-static
+libdir=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows-static/lib
+includedir=K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libflac_x64-windows-static/include
+
+Name: FLAC++
+Description: Free Lossless Audio Codec Library (C++ API)
+Version: 1.5.0
+Requires: flac
+Libs: -L${libdir} -lFLAC++
+Cflags: -I${includedir}

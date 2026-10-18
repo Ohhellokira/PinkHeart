@@ -1,0 +1,15 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/lib/libpng16.lib
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/include/png.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/include/pngconf.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/include/pnglibconf.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/include/libpng16/png.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/include/libpng16/pngconf.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/include/libpng16/pnglibconf.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/lib/pkgconfig/libpng16.pc
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/lib/libpng/libpng16.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/lib/libpng/libpng16-release.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/lib/libpng16.lib
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/lib/cmake/PNG/PNGTargets.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/lib/cmake/PNG/PNGTargets-release.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/lib/cmake/PNG/PNGConfig.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libpng_x64-windows-static/lib/cmake/PNG/PNGConfigVersion.cmake

@@ -1,0 +1,9 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/brotli/x64-windows-static-rel/CMakeFiles/brotlicommon.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/brotli/x64-windows-static-rel/CMakeFiles/brotlidec.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/brotli/x64-windows-static-rel/CMakeFiles/brotlienc.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/brotli/x64-windows-static-rel/CMakeFiles/brotli.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/brotli/x64-windows-static-rel/CMakeFiles/edit_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/brotli/x64-windows-static-rel/CMakeFiles/rebuild_cache.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/brotli/x64-windows-static-rel/CMakeFiles/list_install_components.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/brotli/x64-windows-static-rel/CMakeFiles/install.dir
+K:/blue heart c++/vcpkg_installed/vcpkg/blds/brotli/x64-windows-static-rel/CMakeFiles/install/local.dir

@@ -1,0 +1,13 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/lib/pkgconfig/vorbis.pc
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/lib/pkgconfig/vorbisenc.pc
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/lib/pkgconfig/vorbisfile.pc
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/include/vorbis/codec.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/include/vorbis/vorbisenc.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/include/vorbis/vorbisfile.h
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/lib/vorbis.lib
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/lib/vorbisenc.lib
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/lib/vorbisfile.lib
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/lib/cmake/Vorbis/VorbisTargets.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/lib/cmake/Vorbis/VorbisTargets-release.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/lib/cmake/Vorbis/VorbisConfig.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/libvorbis_x64-windows-static/lib/cmake/Vorbis/VorbisConfigVersion.cmake

@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/libflac/x64-windows-static-dbg/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/libflac/x64-windows-static-dbg/src/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/libflac/x64-windows-static-dbg/src/libFLAC/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/libflac/x64-windows-static-dbg/src/libFLAC++/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/libflac/x64-windows-static-dbg/src/share/replaygain_analysis/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/libflac/x64-windows-static-dbg/src/share/replaygain_synthesis/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/libflac/x64-windows-static-dbg/src/share/getopt/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/libflac/x64-windows-static-dbg/src/share/utf8/cmake_install.cmake",
+		"K:/blue heart c++/vcpkg_installed/vcpkg/blds/libflac/x64-windows-static-dbg/src/share/grabbag/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

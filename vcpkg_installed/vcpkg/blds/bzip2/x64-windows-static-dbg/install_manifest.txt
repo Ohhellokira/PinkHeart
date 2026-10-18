@@ -1,0 +1,1 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/bzip2_x64-windows-static/debug/lib/bz2d.lib

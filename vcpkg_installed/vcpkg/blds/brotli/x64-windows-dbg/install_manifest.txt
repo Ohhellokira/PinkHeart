@@ -1,0 +1,17 @@
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/tools/brotli/brotli.exe
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlienc.lib
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlienc.dll
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlidec.lib
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlidec.dll
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/brotlicommon.lib
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/bin/brotlicommon.dll
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/unofficial-brotli/unofficial-brotli-config.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/unofficial-brotli/unofficial-brotli-config-debug.cmake
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlicommon.pc
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlidec.pc
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/lib/pkgconfig/libbrotlienc.pc
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/man/man1/brotli.1
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/man/man3/constants.h.3
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/man/man3/decode.h.3
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/man/man3/encode.h.3
+K:/blue heart c++/vcpkg_installed/vcpkg/pkgs/brotli_x64-windows/debug/share/man/man3/types.h.3
